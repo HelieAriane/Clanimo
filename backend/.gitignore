@@ -6,7 +6,7 @@
 /build
 /coverage
 
-# === Env files (secrets comme MongoDB URI, JWT, etc.) ===
+# === Env files / Secret files ===
 .env
 .env.local
 .env.development

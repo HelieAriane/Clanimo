@@ -5,12 +5,13 @@
 # === Dépendances ===
 /node_modules
 
-# === Env files ===
+# === Env files / Secret files ===
 .env
 .env.local
 .env.development
 .env.production
 .env.test
+firebase-config.js
 
 # === Capacitor native builds ===
 /ios
