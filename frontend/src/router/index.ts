@@ -28,11 +28,11 @@ import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "@/lib/firebase";
 
 const routes: Array<RouteRecordRaw> = [
-  { path: "/", redirect: "/landing" },
+  { path: "/", redirect: "/launchScreen" },
   {
-    path: "/landing",
-    name: "Landing",
-    component: () => import("@/views/LandingPage.vue"),
+    path: "/launchScreen",
+    name: "LaunchScreen",
+    component: () => import("@/views/LaunchScreen.vue"),
   },
 
   // ===== Onglets principaux =====
