@@ -1,0 +1,22 @@
+{
+    "name": "Clanimo-landingpage",
+    "short_name": "landingpage",
+    "description": "Rencontres canines et communauté d’entraide entre propriétaires de chiens.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff8f0",
+    "theme_color": "#3d2c29",
+    "icons": [
+      {
+        "src": "/icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

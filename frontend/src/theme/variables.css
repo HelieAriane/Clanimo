@@ -1,0 +1,28 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+:root {
+  /* Couleurs principales */
+  --main-bg-color: #F7ECE2;
+  --input-bg-color: #D0C0C6;
+  --button-bg-color: #F2D346;
+  --button-text-color: #32354B;
+  --text-color: #32354B;
+  --link-color: #895D6D;
+  --border-color: #D0C0C6;
+  
+  /* Variables Ionic globales */
+  --ion-background-color: #F7ECE2;
+  --ion-text-color: #32354B;
+  --ion-color-primary: #F2D346;
+  --ion-color-primary-contrast: #32354B;
+  --ion-color-secondary: #895D6D;
+  
+  /* Police par défaut */
+  --ion-font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+html, body, ion-app, ion-content, ion-toolbar, .app-root {
+  --background: var(--main-bg-color);
+  background: var(--main-bg-color) !important;
+}

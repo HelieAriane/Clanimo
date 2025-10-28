@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+:root {
+  --main-bg-color: #F7ECE2;
+  --input-bg-color: #D0C0C6;
+  --button-bg-color: #F2D346;
+  --button-text-color: #32354B;
+  --text-color: #32354B;
+  --link-color: #895D6D;
+}
+
+.logo{
+  display: block;
+  margin: 15px auto;
+  height: 18px;
+}
+
+ion-input.auth-input {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  --background: var(--input-bg-color);
+  --padding-start: 12px;
+  --border-radius: 12px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  --color: var(--link-color);
+}
+
+ion-input-password-toggle {
+  --color: var(--button-bg-color);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.auth-button {
+  --background: var(--button-bg-color);
+  --color: var(--button-text-color);
+  --border-radius: 12px;
+  --box-shadow: none;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: none;
+  margin-top: 20px;
+}
+
+.auth-subtext {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  color: var(--link-color);
+  margin-top: 12px;
+}
+
+.auth-title {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--text-color);
+  margin-bottom: 20px;
+}
+
+.auth-link {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: var(--link-color);
+  font-size: 14px;
+  text-align: right;
+}
+
+.auth-p {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 14px;
+  color: var(--text-color);
+  margin-top: 10px;
+}
+
+.auth-soustitre {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--text-color);
+  margin-bottom: 5px;
+}
+
+.back-button {
+  --color: var(--button-text-color);
+  --border-radius: 12px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: none;
+}

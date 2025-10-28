@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+:root {
+  --beige: #F7ECE2;
+  --dark-beige: #D0C0C6;
+  --yellow: #F2D346;
+  --dark-blue: #32354B;
+  --beige-pink: #895D6D;
+
+}
+
+body, ion-app, ion-content, ion-page {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
