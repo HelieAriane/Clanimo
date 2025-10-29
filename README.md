@@ -93,7 +93,7 @@ L'application est maintenant accessible dans le navigateur ou sur un appareil mo
 
 ## Déploiement
 
-L'application a été pensée exclusivement pour mobile : [Clanimo](https://clanimo.netlify.app/) 
+L'application a été pensée exclusivement pour mobile : [Clanimo](https://clanimo-app.netlify.app/) 
 
 Pour plus d'informations et pour accéder à la page de renvoi : [Page de présentation Clanimo](https://clanimo-landing-page.netlify.app/landing-page)
 
