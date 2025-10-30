@@ -21,7 +21,7 @@
           <p>Clanimo est l’application qui rapproche les amoureux des chiens et leur pitou. </p>
           <p >En quelques clicks, découvre les autres passionnés des chiens dans ton quartier avec qui tu pourras échanger!</p>
           <div class="cta">
-            <ion-button class="btn" size="large" href="https://clanimo.netlify.app/" target="_blank" >Joins-toi à la communauté</ion-button>
+            <ion-button class="btn" size="large" href="https://clanimo-app.netlify.app/" target="_blank" >Joins-toi à la communauté</ion-button>
           </div>
         </div>
 
